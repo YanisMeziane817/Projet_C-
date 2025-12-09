@@ -1,7 +1,7 @@
 # 📚 Système de Gestion de Bibliothèque en C++
 
 ## 🎯 Objectif
-Développer un programme en C++ orienté objet pour gérer une bibliothèque. Ce projet te permettra de pratiquer les concepts fondamentaux de la POO tout en créant une application concrète.
+Développer un programme en C++ orienté objet pour gérer une bibliothèque.  
 
 ## 🎯 Niveau
 Débutant/Intermédiaire - Parfait pour pratiquer :
