@@ -4,7 +4,7 @@
 Développer un programme en C++ orienté objet pour gérer une bibliothèque.  
 
 ## 🎯 Niveau
-Débutant/Intermédiaire - Parfait pour pratiquer :
+Débutant/Intermédiaire - 
 - Classes et objets
 - Encapsulation (public/private)
 - Fichiers séparés (.h et .cpp)
